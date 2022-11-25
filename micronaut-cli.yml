@@ -1,0 +1,6 @@
+applicationType: grpc
+defaultPackage: br.com.junior
+testFramework: junit
+sourceLanguage: groovy
+buildTool: gradle
+features: [annotation-api, app-name, data, data-jpa, gradle, groovy, groovy-application, grpc, h2, jackson-databind, jdbc-hikari, junit, logback, micronaut-build, readme, shade, yaml]
